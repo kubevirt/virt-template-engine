@@ -10,7 +10,7 @@ require (
 	k8s.io/klog/v2 v2.130.1
 	k8s.io/utils v0.0.0-20251002143259-bc988d571ff4
 	kubevirt.io/api v1.7.0
-	kubevirt.io/virt-template-api v0.0.0-20260206010216-fc356400d4df
+	kubevirt.io/virt-template-api v0.0.0-20260210010242-c16e8b29fb7a
 )
 
 require (
