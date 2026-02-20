@@ -10,7 +10,7 @@ require (
 	k8s.io/klog/v2 v2.130.1
 	k8s.io/utils v0.0.0-20251002143259-bc988d571ff4
 	kubevirt.io/api v1.7.0
-	kubevirt.io/virt-template-api v0.0.0-20260210010242-c16e8b29fb7a
+	kubevirt.io/virt-template-api v0.0.0-20260220010259-325c2b22a815
 )
 
 require (
@@ -35,6 +35,7 @@ require (
 	golang.org/x/sys v0.39.0 // indirect
 	golang.org/x/text v0.32.0 // indirect
 	golang.org/x/tools v0.40.0 // indirect
+	google.golang.org/protobuf v1.36.11 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	k8s.io/apiextensions-apiserver v0.34.3 // indirect
 	kubevirt.io/containerized-data-importer-api v1.64.0 // indirect
